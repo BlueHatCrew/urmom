@@ -9,7 +9,7 @@
 ::selection {
   color: black;
   color: black;
-  background: #1f4ba3;
+  background: lightblue;
   background: var(--blue, #1f4ba3);
 }
 
